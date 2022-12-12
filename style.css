@@ -68,10 +68,10 @@ a:hover {
 section {
     padding-top: 5vh;
     padding-bottom: 5vh;
-    line-height: 1.5em;
+    line-height: 2em;
     padding-left: 30px;
     font-family: var(--fonte3);
-    font-size: 4vw;
+    font-size: 1ovw;
     
   
 }
